@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\laptop\documents\visual studio 2015\projects\tutorial8\tutorial8\source.cpp(13): warning C4552: '-': operator has no effect; expected operator with side-effect
+  Tutorial8.vcxproj -> c:\users\laptop\documents\visual studio 2015\Projects\Tutorial8\Debug\Tutorial8.exe
+  Tutorial8.vcxproj -> c:\users\laptop\documents\visual studio 2015\Projects\Tutorial8\Debug\Tutorial8.pdb (Partial PDB)

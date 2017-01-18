@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\laptop\documents\visual studio 2015\projects\tutorial14\tutorial14\main.cpp(18): error C2065: 'p1': undeclared identifier
+c:\users\laptop\documents\visual studio 2015\projects\tutorial14\tutorial14\main.cpp(18): error C2228: left of '.getX' must have class/struct/union
+  c:\users\laptop\documents\visual studio 2015\projects\tutorial14\tutorial14\main.cpp(18): note: type is 'unknown-type'
+c:\users\laptop\documents\visual studio 2015\projects\tutorial14\tutorial14\main.cpp(18): error C2228: left of '.getY' must have class/struct/union
+  c:\users\laptop\documents\visual studio 2015\projects\tutorial14\tutorial14\main.cpp(18): note: type is 'unknown-type'

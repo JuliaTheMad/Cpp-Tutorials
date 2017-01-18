@@ -1,0 +1,5 @@
+﻿  main.cpp
+  altMain.cpp
+  Generating Code...
+main.obj : error LNK2005: _main already defined in altMain.obj
+c:\users\laptop\documents\visual studio 2015\Projects\Tutorial4\Debug\Tutorial4.exe : fatal error LNK1169: one or more multiply defined symbols found

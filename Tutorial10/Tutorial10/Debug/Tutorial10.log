@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\laptop\documents\visual studio 2015\projects\tutorial10\tutorial10\source.cpp(77): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\laptop\documents\visual studio 2015\projects\tutorial10\tutorial10\source.cpp(46): warning C4715: 'NumberOfShips': not all control paths return a value
+  Tutorial10.vcxproj -> C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\Tutorial10\Debug\Tutorial10.exe
+  Tutorial10.vcxproj -> C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\Tutorial10\Debug\Tutorial10.pdb (Partial PDB)

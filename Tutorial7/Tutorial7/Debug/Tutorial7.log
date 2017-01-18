@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\laptop\documents\visual studio 2015\projects\tutorial7\tutorial7\source.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tutorial7.vcxproj -> c:\users\laptop\documents\visual studio 2015\Projects\Tutorial7\Debug\Tutorial7.exe
+  Tutorial7.vcxproj -> c:\users\laptop\documents\visual studio 2015\Projects\Tutorial7\Debug\Tutorial7.pdb (Partial PDB)

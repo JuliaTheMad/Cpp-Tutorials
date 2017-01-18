@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\laptop\documents\visual studio 2015\projects\tutorial13b\tutorial13b\main.cpp(11): error C2678: binary '>>': no operator found which takes a left-hand operand of type 'std::ofstream' (or there is no acceptable conversion)
+  c:\users\laptop\documents\visual studio 2015\projects\tutorial13b\tutorial13b\main.cpp(11): note: could be 'built-in C++ operator>>(bool, int)'
+  c:\users\laptop\documents\visual studio 2015\projects\tutorial13b\tutorial13b\main.cpp(11): note: while trying to match the argument list '(std::ofstream, int)'
+c:\users\laptop\documents\visual studio 2015\projects\tutorial13b\tutorial13b\main.cpp(12): error C2678: binary '>>': no operator found which takes a left-hand operand of type 'std::ofstream' (or there is no acceptable conversion)
+  c:\users\laptop\documents\visual studio 2015\projects\tutorial13b\tutorial13b\main.cpp(12): note: could be 'built-in C++ operator>>(bool, int)'
+  c:\users\laptop\documents\visual studio 2015\projects\tutorial13b\tutorial13b\main.cpp(12): note: while trying to match the argument list '(std::ofstream, int)'
